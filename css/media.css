@@ -1,0 +1,438 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700');
+
+@media (min-width: 1268px)
+{
+    .contact_map .shapeit_headings
+    {
+        margin-left: 62px;
+    }
+    .navbar-nav
+    {
+        margin-left: 61px;
+    }
+    .ending .navbar-nav
+    {
+        margin-left: 224px;
+    }
+    .contact_map .form-group {
+     margin-left: 46px; 
+    }
+}
+
+@media(min-width: 992px)
+{
+    .gym_class .owl-carousel
+    {
+        height: 614px;
+    }
+
+    .navbar-nav
+    {
+        float: left;
+
+        margin-left: 61px;
+    }
+}
+
+
+@media (max-width: 988px)
+{
+    .map_dimension
+    {
+        top: 0;
+
+        height: 290px;
+        margin-left: -25px;
+    }
+}
+
+
+@media(max-width: 1230px) and (min-width: 992px)
+{
+    .image_text1 p
+    {
+        padding: 0 0px 0 0px;
+    }
+    .image_text2 p
+    {
+        padding: 0 1px 0 75px;
+    }
+    .about .about_us_button
+    {
+        margin-left: 76px;
+    }
+    .gym_class .image_text1 p
+    {
+        font-size: 14px;
+
+        max-width: 384px;
+    }
+    .gym_class .image_text1
+    {
+        margin-left: -2px;
+    }
+    .contacts .shapeit_headings
+    {
+        margin-left: 57px;
+    }
+}
+@media(max-width: 1200px) and (min-width: 768px)
+{
+    .icon-block
+    {
+        font-size: 1.3em;
+
+        width: .74in;
+        height: .74in;
+        padding: 17px 27px;
+    }
+}
+
+@media(max-width: 1200px) and (min-width: 768px)
+{
+    .service_image img
+    {
+        height: 724px;
+    }
+    
+}
+@media(max-width: 1200px) and (min-width: 992px)
+{
+  .contacts .shapeit_headings
+    {
+        margin-left: 0px;
+    }
+   
+ }   
+
+@media(max-width: 768px) and (min-width: 430px)
+{
+    .filtr-item
+    {
+        padding: 0;
+    }
+    .filtr-item .image-box
+    {
+        margin: 0;
+    }
+   
+}
+
+
+@media(max-width: 992px)
+{   
+	.sub_heading {
+      left:52px;
+    }		
+    .carousel-inner .hero-text span
+    {
+        font-size: 1.5em;
+    }
+    .carousel-indicators
+    {
+        display: none;
+    }
+    .carousel-inner .hero-text .outer-border
+    {
+        top: 61px;
+
+        width: 230px;
+        height: 116px;
+    }
+    .gym_class .main_header
+    {
+        margin-left: 2px;
+    }
+    .gym_class .gym_class_border
+    {
+        left: 220px;
+    }
+    .signup_button
+    {
+        font-size: 14px;
+
+        width: 174px;
+        padding: 18px 55px 0;
+    }
+    .image_text1 p
+    {
+        text-align: left;
+    }
+    .image_text2 p
+    {
+        text-align: justify;
+    }
+    /*header*/
+    .service_image
+    {
+        position: relative;
+
+        display: block;
+
+        text-align: center;
+    }
+    .service .shapeit_paragraph
+    {
+        font-weight: 500;
+        line-height: 23.2px;
+
+        max-width: 266px;
+        margin: 10px auto 10px;
+    }
+    .service_list
+    {
+        position: relative;
+
+        margin-top: 0;
+
+        text-align: center;
+    }
+    /*.trainers img{
+	height:350px;
+}*/
+    .line
+    {
+        right: 0;
+
+        width: 100%;
+    }
+    .social_icons
+    {
+        margin-top: 30px;
+    }
+    /*gym*/
+    .gym_class .owl-theme .owl-controls .owl-page
+    {
+        display: none;
+    }
+    .gym_class .image_text1
+    {
+        margin-left: 12px;
+    }
+    .gym_class .owl-theme .owl-controls .owl-buttons
+    {
+        position: relative;
+        top: -81px;
+        left: 0;
+
+        overflow: hidden;
+
+        margin: 0;
+        padding: 16px 2px;
+
+        text-align: center;
+    }
+    .trainers .row
+    {
+        margin: auto;
+    }
+    .signup .tips .shapeit_topics
+    {
+        margin: 20px 14px 15px;
+    }
+    .blog .shapeit_semiparagraph
+    {
+        max-width: 352px;
+        margin: 0 auto;
+    }
+    .blog .inner-box img
+    {
+        margin: auto;
+    }
+    .blog .inner-box
+    {
+        margin-top: 30px;
+
+        text-align: center;
+    }
+    .video_bg .play
+    {
+        margin-top: 7px;
+    }
+    .signup
+    {
+        padding: 80px 0 40px;
+    }
+    .tips
+    {
+        margin-top: -19px;
+    }
+    .contact_map
+    {
+        height: 834px;
+    }
+    
+    .main_location
+    {
+        position: relative;
+        top: 16px;
+
+        margin-left: -241px;
+    }
+    .footer .shapeit_paragraph
+    {
+        margin-bottom: 30px;
+    }
+    .footer .shapeit_topics
+    {
+        margin-top: 30px;
+    }
+}
+
+/*gym*/
+
+
+@media(max-width:768px)
+{    
+	
+    .carousel-inner
+    {
+        height: 488px!important;
+    }
+    .main_header
+    {
+        margin-left: 0px;
+    }
+    .border
+    {
+        left: 233px;
+    }
+    .about h2
+    {
+        top: 403px;
+        left: 15.5px;
+    }
+    .about .shapeit_button2
+    {
+        margin: auto;
+    }
+    .service_image
+    {
+        z-index: 1;
+    }
+    .service_image img
+    {
+        display: block;
+
+        max-width: 100%;
+        height: auto;
+    }
+    .gym_class .owl-carousel .owl-wrapper-outer
+    {
+        position: relative;
+
+        width: 1000%;
+    }
+    .gym_class .image_frame .frame
+    {
+        left: 32px;
+    }
+    .gym_class .shapeit_headings
+    {
+        top: 404px;
+        left: 26px;
+    }
+    .trainer_person{
+     	text-align: center;
+   }
+    .icon-block
+    {
+        font-size: 20px;
+
+        width: .44in;
+        height: .65in;
+        margin: 10px 0;
+    }
+    .portfolio .filtr-item .image_box .img-responsive
+    {
+        width: 768px !important;
+        height: 300px !important;
+    }
+    .image-box img
+    {
+        width: 100%;
+    }
+    .signup .shapeit_paragraph{
+    	max-width:254px;
+    }
+    .social_infos .icon-block
+    {
+        font-size: 1em;
+
+        width: .5in;
+        height: .5in;
+        margin: 0 0;
+        padding: 8px 16px;
+    }
+    .footer .social_icons .icon_block2
+    {
+        font-size: 1em;
+
+        width: .5in;
+        height: .5in;
+        margin: 0 0;
+        padding: 8px 16px;
+    }
+    .ending p
+    {
+        font-size: 14px;
+
+        margin-top: 22px;
+
+        color: #fff;
+    }
+    .ending .nav > li
+    {
+        display: inline-block;
+    }
+}
+
+@media(max-width: 600px)
+{
+    .signup .owl-theme .owl-controls .owl-buttons [class*='owl-']
+    {
+        margin: 39px 2px;
+    }
+    .signup .owl-theme .owl-controls .owl-buttons
+    {
+        left: 0;
+    }
+}
+
+@media(max-width: 468px)
+{
+    .features .shapeit_paragraph
+    {
+        margin-top: 19px;
+        padding: 0 5px;
+    }
+    .features .fatures_topics
+    {
+        margin-top: 0;
+    }
+    
+
+}
+
+@media(max-width: 380px)
+{
+    .gym_class .image_frame .frame
+    {
+        display: none;
+    }
+    .frame
+    {
+        display: none;
+    }
+    .video_overlay .shapeit_semiheading
+    {
+        font-size: 14px;
+    }
+    .video_overlay .shapeit_paragraph
+    {
+        font-size: 10px;
+    }
+    .trainer_bg{
+    	width:100%;
+    }
+}
